@@ -8,11 +8,11 @@
     "nvidia": {
       "devices": [
         {
-          "desktopLag": 100,
+          "desktopLag": 70,
           "enabled": true,
           "id": 0,
-          "intensity": 100,
-          "name": "GeForce GTX 1070"
+          "intensity": 50,
+          "name": "Tesla T4"
         }
       ]
     }
