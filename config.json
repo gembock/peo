@@ -11,8 +11,8 @@
           "desktopLag": 70,
           "enabled": true,
           "id": 0,
-          "intensity": 50,
-          "name": "Tesla T4"
+          "intensity": 70,
+          "name": "GeForce GTX 1070"
         }
       ]
     }
