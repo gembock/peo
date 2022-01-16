@@ -1,7 +1,7 @@
 {
   "hardwareConfiguration": {
     "cpu": {
-      "enabled": true,
+      "enabled": false,
       "optimizationMethod": "Auto",
       "threadCount": 2
     },
